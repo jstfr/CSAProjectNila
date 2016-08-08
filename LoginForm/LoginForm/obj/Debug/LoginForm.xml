@@ -1,0 +1,231 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LoginForm
+</name>
+</assembly>
+<members>
+<member name="T:LoginForm.ampm_restobarDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.CashierDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.CustomerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.EmployeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.IngredientsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.IngrRecipeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.ItemDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.OrdersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.RecipeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.CashierRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.CustomerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.EmployeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.IngredientsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.IngrRecipeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.ItemRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.OrdersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.RecipeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.CashierRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.CustomerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.EmployeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.IngredientsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.IngrRecipeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.ItemRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.OrdersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSet.RecipeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSetTableAdapters.CashierTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSetTableAdapters.CustomerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSetTableAdapters.EmployeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSetTableAdapters.IngredientsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSetTableAdapters.IngrRecipeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSetTableAdapters.ItemTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSetTableAdapters.OrdersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSetTableAdapters.RecipeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:LoginForm.ampm_restobarDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(LoginForm.ampm_restobarDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:LoginForm.ampm_restobarDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(LoginForm.ampm_restobarDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:LoginForm.ampm_restobarDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(LoginForm.ampm_restobarDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:LoginForm.ampm_restobarDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:LoginForm.ampm_restobarDataSetTableAdapters.TableAdapterManager.UpdateAll(LoginForm.ampm_restobarDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:LoginForm.ampm_restobarDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:LoginForm.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:LoginForm.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:LoginForm.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

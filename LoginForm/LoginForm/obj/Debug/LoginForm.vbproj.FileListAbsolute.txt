@@ -1,0 +1,30 @@
+C:\Users\Jeneyyy\Desktop\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Jeneyyy\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.vbprojResolveAssemblyReference.cache
+C:\Users\Jeneyyy\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.Resources.resources
+C:\Users\Jeneyyy\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.vbproj.GenerateResource.Cache
+C:\Users\Jeneyyy\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.xml
+C:\Users\Jeneyyy\Desktop\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Jeneyyy\Desktop\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Jeneyyy\Desktop\LoginForm\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Jeneyyy\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Jeneyyy\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\Jeneyyy\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.ManagerLogin.resources
+C:\Users\Jeneyyy\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.ManagerMainForm.resources
+C:\Users\Jeneyyy\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.MainLogin.resources
+C:\Users\Jeneyyy\Desktop\LoginForm\LoginForm\bin\Debug\ampm restobar.accdb
+C:\Users\Jeneyyy\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.TableStatus.resources
+C:\Users\Robert\Desktop\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Robert\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Robert\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.xml
+C:\Users\Robert\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\Robert\Desktop\LoginForm\LoginForm\bin\Debug\ampm restobar.accdb
+C:\Users\Robert\Desktop\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Robert\Desktop\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Robert\Desktop\LoginForm\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Robert\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.vbprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.ManagerMainForm.resources
+C:\Users\Robert\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.MainLogin.resources
+C:\Users\Robert\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.Resources.resources
+C:\Users\Robert\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.OrderForm.resources
+C:\Users\Robert\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.TableStatus.resources
+C:\Users\Robert\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.vbproj.GenerateResource.Cache
